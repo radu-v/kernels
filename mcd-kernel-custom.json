@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "mcd-kernel-custom",
-    "version": "2021-02-05",
-    "link": "https://github.com/radu-v/kernels/releases/download/4.9.254/mcd-kernel-2021-02-05.zip",
-    "changelog_url": "https://github.com/radu-v/kernels/releases/download/4.9.254/mcd-kernel-custom-changelog.md",
-    "date": "2021-02-05",
-    "sha1": "da8d53683a5da299b17b52d28ed47ed2646a20bb"
+    "version": "2021-02-08",
+    "link": "https://github.com/radu-v/kernels/releases/download/mcd-kernel-custom-4.9.256/mcd-kernel-2021-02-08.zip",
+    "changelog_url": "https://github.com/radu-v/kernels/releases/download/mcd-kernel-custom-4.9.256/mcd-kernel-custom-changelog.md",
+    "date": "2021-02-08",
+    "sha1": "818cb7a4705291e6a149d47ba32220586d054d0f"
   },
   "support": {
     "link": ""
