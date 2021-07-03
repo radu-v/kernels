@@ -1,2 +1,4 @@
-* Upstreamed to 4.4.256
-* Disabled the blu_schedutil governor
+- fs: Import sdFAT version 2.4.5 (554c041eeecb0148422605da08bde76ac5355d24)
+- Backport new vmalloc for "large performance benefits" (d4eb1f930717ffed90c023b544539ea47d8625e5)
+- switch to simple_lmk (kerneltoast/simple_lmk@089d64eb2581cbedc42ddacdee9cc18bc6c27e17)
+- reset to LineageOS 18.1 NFC nq-nci driver (7bd3abed68043841523f250be758493a9333de52)
