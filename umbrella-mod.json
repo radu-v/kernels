@@ -2,10 +2,10 @@
   "kernel": {
     "name": "umbrella-mod",
     "version": "4.4.256",
-    "link": "https://github.com/radu-v/kernels/releases/download/nb1-4.4.256-treble/4.4.256-umbrella_mod-nb1-treble-0602211833-8b5640ba.zip",
+    "link": "https://github.com/radu-v/umbrella-mod/releases/download/v4.4.274-r1/4.4.274-umod-nb1-r1-0207210751-605e2d26.zip",
     "changelog_url": "https://github.com/radu-v/kernels/releases/download/nb1-4.4.256-treble/umbrella-mod-changelog.md",
-    "date": "2021-02-06",
-    "sha1": "9206588d5f76c08537c17007a4aab9548f0fbdbf"
+    "date": "2021-06-03",
+    "sha1": "965048e260dcf86e01ae004b8223cc7d85ac4955"
   },
   "support": {
     "link": ""
